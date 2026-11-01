@@ -1,0 +1,71 @@
+1
+00:00:02,000 --> 00:00:10,115
+Every gym owner knows this pain... a membership expires, nobody follows up, and that money just quietly disappears.
+
+2
+00:00:10,265 --> 00:00:20,796
+Most gyms still run on notebooks and Excel sheets. Who paid? Who owes? Who expired last week? Nobody knows... until it's too late.
+
+3
+00:00:20,946 --> 00:00:28,359
+So I built GymFlow. A complete gym management system, made for gyms in Bangladesh, in Bangla and English.
+
+4
+00:00:28,509 --> 00:00:30,608
+Here's what version one covers.
+
+5
+00:00:30,758 --> 00:00:38,812
+Your dashboard shows today's collection, total dues, active members, and who's about to expire. One screen. Everything.
+
+6
+00:00:38,962 --> 00:00:45,372
+Add members in seconds. Create monthly, quarterly or yearly plans, and renew with a single tap.
+
+7
+00:00:45,522 --> 00:00:55,495
+Take payments in cash, bKash, Nagad or card. Part payments are fine. Dues update by themselves, and every payment gets a receipt link you can share.
+
+8
+00:00:55,645 --> 00:01:06,550
+Automatic SMS reminders, before expiry, on the day, and after, in Bangla or English, are built and tested. Connecting a live SMS gateway is the next step.
+
+9
+00:01:06,700 --> 00:01:11,766
+Check-in takes two taps, with a warning if the membership has expired or money is due.
+
+10
+00:01:11,916 --> 00:01:20,831
+Give discounts for students or families, always with a reason. Sell personal training packages, assign trainers, and log every single session.
+
+11
+00:01:20,981 --> 00:01:26,484
+There's even a built-in shop for supplements and drinks, with stock tracking and low-stock alerts.
+
+12
+00:01:26,634 --> 00:01:34,814
+Owners, managers, front desk and trainers each see only what they should. Managers propose staff changes, and the owner approves.
+
+13
+00:01:34,964 --> 00:01:39,959
+One gym, or ten? Switch branches, or see every branch side by side.
+
+14
+00:01:40,109 --> 00:01:45,763
+Moving from Excel? Import your members from a CSV, and export reports whenever you need them.
+
+15
+00:01:45,913 --> 00:01:51,754
+It works on any phone, in dark or light mode, and your data is protected and backed up.
+
+16
+00:01:51,904 --> 00:02:07,527
+Now, what's coming next. Online payments with bKash and Nagad. WhatsApp reminders. Expense tracking and profit reports. QR code check-in. Membership freeze. A self-service page for your members. And later... a member mobile app.
+
+17
+00:02:07,677 --> 00:02:13,628
+I'm opening this up to a small group of gyms for a pilot. If you run a gym, or you know someone who does...
+
+18
+00:02:13,778 --> 00:02:20,850
+send me a message here on LinkedIn, or email me, and I'll set up a demo for you. GymFlow... never lose a renewal again!
